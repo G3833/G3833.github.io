@@ -1,0 +1,152 @@
+
+html {
+    background-color: rgb(122, 117, 117);
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+
+#logo {
+    margin:10px;
+    padding: 10px;
+    font-family: "Fredoka", sans-serif
+}
+
+#ul {
+    margin: 0px;
+    padding: 10px;
+}
+
+body > header {
+    background-color: lightgrey;
+    text-align: center;
+    color:rgb(35, 46, 46);
+    display: flex;
+    height: 10vh;
+    justify-content: space-around;
+    font-size: 22px;
+}
+
+#nav-ul {
+    display: flex;
+    margin: 10px;
+}
+
+#nav-ul > li {
+    padding: 8px;
+    margin: 16px;
+}
+
+body > header > nav > ul {
+    list-style: none;
+    text-decoration: none;
+}
+   
+.navbutton {
+    color: rgb(35, 46, 46);
+    text-decoration: none;
+    padding: 10px;
+    border: 1px;
+    border-radius: 10%;
+}
+
+
+
+body > main > article > main {
+    width: 70%;
+    margin: auto;
+    font-family: "Marcellus";
+    color: white;
+    font-size: 24px;
+}
+
+
+#Title {
+    font-family: "Shadows Into Light";
+    font-size: 40px;
+    color: rgb(121, 37, 37)
+}
+
+form {
+    text-align: center;
+}
+
+body > main > article > h2 {
+    text-align: left;
+    color: rgb(35, 46, 46);
+    font-family: "Fredoka", sans-serif;   
+}
+
+h3 {
+    text-align: right;
+    color: rgb(28, 28, 28);
+    font-family: "Fredoka", sans-serif;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(121, 37, 37);
+    font-family: "Shadows Into Light";
+}
+
+h4 {
+    text-align: left;
+    color: white;
+    font-family: "Marcellus";
+    font-size: 25px;
+}
+h5 {
+    text-align: center;
+    color: rgb(121, 37, 37);
+    font-family: "Playfair Display";
+    font-size: 40px;
+}
+
+body > main > article > main > ul > div {
+    font-size: 20px;
+    padding: 0px;
+}
+
+textarea {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+body > footer {
+    background-color: lightgray;
+    margin: auto;
+    padding: auto;
+}
+
+img {
+    border-radius: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+footer {
+    margin: 10px;
+    padding: 10px;
+ 
+}
+
+
+body > footer > section > nav > ul {
+    text-decoration: none;
+    font-size: 15px;
+    font-family: "Marcellus";
+
+}
+
+#main-footer {
+    color: rgb(35, 46, 46);
+    font-family: "Fredoka", sans-serif;
+    margin: 10px;
+    padding:10px;
+}
